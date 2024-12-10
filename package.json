@@ -1,0 +1,12 @@
+{
+  "name": "pfinal",
+  "version": "1.0.0",
+  "description": "Estaremos aplicando todo lo aprendido en el cuatrimestre de Devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
